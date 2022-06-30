@@ -6,3 +6,5 @@ resources:
 - webhook-token.yaml
 - receiver-service.yaml
 - notification-receiver.yaml
+- cluster-sync.yaml
+- image-update-automation.yaml
